@@ -1,4 +1,4 @@
-package board
+package tictacgo
 
 type Board struct {
 }

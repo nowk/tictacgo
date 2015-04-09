@@ -1,4 +1,4 @@
-package board
+package tictacgo
 
 import "testing"
 
